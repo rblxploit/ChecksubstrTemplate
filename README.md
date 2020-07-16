@@ -4,6 +4,8 @@ This challenge is level easy.
 It is inspired of some homework that my dad was explaining to a student.
 What do do: Make a function that checks if a string is present in a substring
 
+Once finished (read instructions before starting), submit here: https://docs.google.com/forms/d/e/1FAIpQLSfrYFEVNk0_NBDclbAPj6zJ973QlzjBGp1u2P3M3GJUyhqoUA/viewform?usp=sf_link
+
 Where to work: the checksubstr function.<br>
 It is a function that takes in argument str (the string) and substr (the substring to check how many times in the string)<br>
 It has to return an integer which is how many times the substring is present in the string<br>
