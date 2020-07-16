@@ -11,7 +11,7 @@ namespace HowManyTimesSubstring
     {
         static int checksubstr(string str, string substr)
         {
-            // Your code here
+            // Your code is here
 			// Do not share it with anyone
         }
         static void Main(string[] args)
